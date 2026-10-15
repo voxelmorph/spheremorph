@@ -2,7 +2,7 @@
 
 ### JOSA : Joint spherical registration and altas building
 
-[code](https://silencer1127.github.io/software/JOSA/josa_main)
+[JOSA website and code](https://silencer1127.github.io/software/JOSA/josa_main)
 
 J. Li, G. Tuckute, E. Fedorenko, B. L. Edlow, A. V. Dalca‡, B. Fischl‡,   
 JOSA: Joint surface-based registration and atlas construction of brain geometry and function  
